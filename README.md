@@ -8,4 +8,3 @@ https://jeremyjamesl.github.io/flag-guessr/
 - Spelling must be precise and contain all characters in flag data in flags.json. E.g 'Ivory Coast' would be incorrect, 'Côte d'Ivoire (Ivory Coast)' would be correct. Silly I know.
 
 
-### hello
